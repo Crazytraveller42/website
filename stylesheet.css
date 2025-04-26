@@ -1,0 +1,98 @@
+
+
+body {
+  diplay: flex;
+  flex-direction: column;
+    margin: 0;
+    height:100vh;
+    background-color: orange;
+  }
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 6em;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow: visible;
+    background-color: orange;
+    z-index: 1000;
+}
+
+.images {
+  margin-left: 1em;
+  height: 5em ;
+} 
+
+.link, .dropdown-toggle {
+position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 10px 15px;
+  background-color: white;
+  cursor: pointer;
+  min-width: 100px;
+}
+
+.dropdown {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  background-color: white;
+  min-width: 100px;
+  z-index: 1001;
+}
+
+.dropdown-menu button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: white;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dropdown-menu button:hover,
+.dropdown-menu button.active {
+  background-color: #007BFF;
+  color: white;
+}
+
+
+
+.headercontainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  gap: 1em; 
+}
+
+main {
+    padding-top: 6em;
+    overflow-y: auto;
+  flex: 1;
+}
+
+footer {
+  height: 2em;
+}
+
+#impressum {
+display: flex;
+justify-content: center;
+  width: 100%;
+}
+

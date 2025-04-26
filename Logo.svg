@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.324364mm"
+   height="10.277675mm"
+   viewBox="0 0 33.324364 10.277675"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="15.924584"
+     inkscape:cx="30.707239"
+     inkscape:cy="17.457285"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="2125"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:clip-to-page="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#436f4b;stop-opacity:1;"
+         offset="0.7595433"
+         id="stop10" />
+      <stop
+         style="stop-color:#2697d6;stop-opacity:1;"
+         offset="0.90200168"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10"
+       id="linearGradient11"
+       x1="30.410061"
+       y1="46.726444"
+       x2="33.257698"
+       y2="49.889065"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-11.240934,-1.0142767)" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.085206,-39.855347)">
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.264583"
+       x="17.707169"
+       y="50.114834"
+       id="text2"
+       inkscape:transform-center-x="-2.0912184"
+       inkscape:transform-center-y="-2.8196202"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:14.1111px;fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.264583"
+         x="17.707169"
+         y="50.114834">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:0;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e95600;stroke-width:0.264583"
+       x="28.175354"
+       y="44.236477"
+       id="text1"><tspan
+         style="font-size:2.82222px;line-height:1.2;fill:#456f4b;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan34"
+         x="28.175354"
+         y="44.236477">Psychotherapie</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="28.175354"
+         y="47.050003"
+         id="tspan3">für Kinder, Jugendliche</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;line-height:1.25;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="28.175354"
+         y="49.695839"
+         id="tspan4">und junge Erwachsene</tspan></text>
+  </g>
+</svg>
